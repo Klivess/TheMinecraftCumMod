@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "le_epic_mod:blocks/cumore",
+    "up": "le_epic_mod:blocks/cumore",
+    "north": "le_epic_mod:blocks/cumore",
+    "east": "le_epic_mod:blocks/cumore",
+    "south": "le_epic_mod:blocks/cumore",
+    "west": "le_epic_mod:blocks/cumore",
+    "particle": "le_epic_mod:blocks/cumore"
+  }
+}

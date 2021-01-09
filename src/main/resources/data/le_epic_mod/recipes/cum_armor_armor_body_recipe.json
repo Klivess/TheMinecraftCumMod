@@ -1,0 +1,39 @@
+{
+  "group": "le_epic_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "2": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "3": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "4": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "5": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "6": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "7": {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    "8": {
+      "item": "le_epic_mod:cum_thrown"
+    }
+  },
+  "result": {
+    "item": "le_epic_mod:cum_armor_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "cum_glob",
+    "customModelName": "Normal",
+    "name": "Cum Glob",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": "CUSTOM:CumThrown"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "item.bucket.empty"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 10,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:CumThrown"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "potionicon.png",
+    "onBulletHitsEntity": {
+      "name": "CumJarOnPotionActiveTick"
+    }
+  }
+}

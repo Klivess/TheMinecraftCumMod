@@ -1,0 +1,180 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CumOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_ore"
+    },
+    {
+      "name": "Cum",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum"
+    },
+    {
+      "name": "CumJarOnPotionActiveTick",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_jar_on_potion_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CumOreSmelting",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_ore_smelting"
+    },
+    {
+      "name": "CumJarFoodTest",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_jar_food_test"
+    },
+    {
+      "name": "CumJar",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_jar"
+    },
+    {
+      "name": "CumThrown",
+      "type": "gun",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_thrown"
+    },
+    {
+      "name": "CumArmorArmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CumArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "CumArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_armor_armor_body_recipe"
+    },
+    {
+      "name": "CumArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "CumArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_armor_armor_boots_recipe"
+    },
+    {
+      "name": "CumParticles",
+      "type": "particle",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cum_particles"
+    },
+    {
+      "name": "CumGolem",
+      "type": "mob",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "cum_golem"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.le_epic_mod.cum_armor_armor_helmet": "Cum Helmet",
+      "item.le_epic_mod.cum_golem_spawn_egg": "Cum Golem Spawn Egg",
+      "item.le_epic_mod.cum_thrown": "Cum Glob",
+      "item.le_epic_mod.cum_bucket": "Cum Bucket",
+      "block.le_epic_mod.cum_ore": "Cum Ore",
+      "item.le_epic_mod.cum_armor_armor_chestplate": "Cum Chestplate",
+      "fluid.cum": "Cum",
+      "item.le_epic_mod.cum_jar_food_test": "Cum Jar",
+      "item.le_epic_mod.cum_armor_armor_boots": "Cum Boots",
+      "entity.le_epic_mod.cum_golem": "Cum Golem",
+      "item.le_epic_mod.cum_armor_armor_leggings": "Cum Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "le_epic_mod",
+    "modName": "Le Epic Mod",
+    "version": "1.0.0",
+    "author": "maxbe",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "bog.spacestraw.mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

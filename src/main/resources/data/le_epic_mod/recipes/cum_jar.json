@@ -1,0 +1,16 @@
+{
+  "group": "le_epic_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "le_epic_mod:cum_thrown"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "le_epic_mod:cum_jar_food_test",
+    "count": 1
+  }
+}
